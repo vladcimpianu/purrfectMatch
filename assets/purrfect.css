@@ -1,0 +1,38 @@
+body {
+	background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80);
+    background-size: cover;
+    background-position: center;
+    color: rgba(255, 255, 255, 0.9);
+    font-family: Lato;
+}
+
+html {
+	height: 100%
+}
+
+
+#content {
+	text-align: center;
+	padding-top: 20%;
+	text-shadow: 0px 3px 4px black,
+	             0px 8px 12px black,
+	             0px 20px 23px black;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 4em;
+}
+
+hr {
+	width: 28%;
+	box-shadow: 2px 2px 2px black;
+}
+
+.btn {
+	box-shadow: 2px 2px 2px black;
+}
+
+.navbar-inverse {
+	box-shadow: 0px 3px 4px black;
+}
